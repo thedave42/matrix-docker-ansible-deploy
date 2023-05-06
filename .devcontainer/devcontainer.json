@@ -41,9 +41,6 @@
 	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/ansible:2": {},
-		"ghcr.io/devcontainers-contrib/features/apt-get-packages:1": {},
-		"ghcr.io/devcontainers-contrib/features/apt-packages:1": {},
-		"ghcr.io/flexwie/devcontainer-features/op:1": {}
+		"ghcr.io/devcontainers-contrib/features/ansible:2": {}
 	}
 }
